@@ -1,2 +1,2 @@
 # PLANT-WEBSITE
-This ia a backend project using django & python
+This is a Backend project using django & python
